@@ -1,0 +1,220 @@
+cycle=30 agents=[A1,A2,A3,A4,A5,A6] decision=homogeneous-society restart=0 memory-factor=0.0 concurrency-penalty=0
+T0 u=8
+T1 u=0
+TIK
+A1 u=1
+A2 u=-2
+A3 u=-2
+A4 u=-1
+A5 u=6
+A6 u=8
+T2 u=8
+T3 u=9
+TIK
+A1 u=-1
+A2 u=8
+A3 u=8
+A4 u=1
+A5 u=-1
+A6 u=-1
+TIK
+A1 u=1
+A2 u=9
+A3 u=0
+A4 u=5
+A5 u=-1
+A6 u=-1
+T4 u=2
+TIK
+A1 u=-1
+A2 u=7
+A3 u=4
+A4 u=-1
+A5 u=7
+A6 u=0
+T5 u=3
+T6 u=8
+T7 u=3
+TIK
+A1 u=9
+A2 u=3
+A3 u=-2
+A4 u=0
+A5 u=7
+A6 u=5
+TIK
+A1 u=-1
+A2 u=0
+A3 u=8
+A4 u=9
+A5 u=-1
+A6 u=7
+TIK
+A1 u=6
+A2 u=4
+A3 u=6
+A4 u=1
+A5 u=2
+A6 u=0
+TIK
+A1 u=8
+A2 u=5
+A3 u=0
+A4 u=8
+A5 u=4
+A6 u=-1
+TIK
+A1 u=3
+A2 u=2
+A3 u=0
+A4 u=8
+A5 u=6
+A6 u=8
+TIK
+A1 u=5
+A2 u=9
+A3 u=6
+A4 u=7
+A5 u=6
+A6 u=0
+TIK
+A1 u=1
+A2 u=3
+A3 u=3
+A4 u=-2
+A5 u=9
+A6 u=-1
+TIK
+A1 u=0
+A2 u=2
+A3 u=9
+A4 u=0
+A5 u=9
+A6 u=7
+TIK
+A1 u=8
+A2 u=2
+A3 u=9
+A4 u=-2
+A5 u=2
+A6 u=3
+TIK
+A1 u=3
+A2 u=-1
+A3 u=1
+A4 u=1
+A5 u=2
+A6 u=7
+TIK
+A1 u=3
+A2 u=7
+A3 u=0
+A4 u=3
+A5 u=-1
+A6 u=8
+TIK
+A1 u=6
+A2 u=3
+A3 u=-2
+A4 u=3
+A5 u=6
+A6 u=-2
+TIK
+A1 u=-2
+A2 u=3
+A3 u=0
+A4 u=1
+A5 u=9
+A6 u=7
+TIK
+A1 u=1
+A2 u=7
+A3 u=8
+A4 u=7
+A5 u=3
+A6 u=9
+TIK
+A1 u=7
+A2 u=3
+A3 u=7
+A4 u=7
+A5 u=2
+A6 u=7
+TIK
+A1 u=9
+A2 u=0
+A3 u=3
+A4 u=8
+A5 u=5
+A6 u=-2
+TIK
+A1 u=3
+A2 u=5
+A3 u=7
+A4 u=6
+A5 u=-1
+A6 u=-1
+TIK
+A1 u=8
+A2 u=3
+A3 u=7
+A4 u=1
+A5 u=1
+A6 u=9
+TIK
+A1 u=2
+A2 u=7
+A3 u=1
+A4 u=6
+A5 u=5
+A6 u=2
+TIK
+A1 u=2
+A2 u=5
+A3 u=6
+A4 u=8
+A5 u=5
+A6 u=-1
+TIK
+A1 u=5
+A2 u=2
+A3 u=-1
+A4 u=-1
+A5 u=2
+A6 u=4
+TIK
+A1 u=5
+A2 u=5
+A3 u=2
+A4 u=4
+A5 u=0
+A6 u=8
+TIK
+A1 u=9
+A2 u=-1
+A3 u=-2
+A4 u=6
+A5 u=9
+A6 u=5
+TIK
+A1 u=5
+A2 u=1
+A3 u=4
+A4 u=8
+A5 u=5
+A6 u=7
+TIK
+A1 u=8
+A2 u=9
+A3 u=6
+A4 u=6
+A5 u=3
+A6 u=-1
+TIK
+A1 u=8
+A2 u=2
+A3 u=-1
+A4 u=4
+A5 u=6
+A6 u=8
+end

@@ -1,0 +1,1 @@
+state={T0=NA,T1=NA,T2=4.72,T3=4.00,T4=NA,T5=NA,T6=NA,T7=4.00} gain=79.00
