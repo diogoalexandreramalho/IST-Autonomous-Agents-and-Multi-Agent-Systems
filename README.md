@@ -21,6 +21,10 @@ In the `report.pdf` file you can find:
 * Multi-agent system behavior
 * Results
 
+Some folders required as input or output of some of code scripts can not be found in this repository as those could be found online or were too large. Those folders were:
+* Samples (input: moves from the games played by stockfish)
+* tunner - (output: models checkpoints)
+
 ## Contributing
 
 ### Guidelines
